@@ -57,7 +57,7 @@ pythonCopyfrom main import multi_agent
 multi_agent.print_response("summarize the analyst recommendation and share the latest news for NVDA", stream=True)
 Starting the Playground App
 bashCopypython playground.py
-The playground will be available at http://localhost:8000
+The playground will be available at [http://localhost:8000](https://www.phidata.app/playground/chat?endpoint=localhost%253A7777&agent=99ff065d-0574-4486-97e0-a31f31daf932&session=ae5d7e8b-f13a-4acb-aac3-f6eca3045788)
 
 ## Agent Components
 ## Web Search Agent
