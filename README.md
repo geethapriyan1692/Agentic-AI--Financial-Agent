@@ -30,7 +30,7 @@ phidata
 
 Clone the repository:
 
-git clone [your-repository-url]
+git clone https://github.com/geethapriyan1692/Agentic-AI--Financial-Agent
 cd financial-agent-ai
 
 ## Install required packages:
